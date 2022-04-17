@@ -16,7 +16,7 @@
 -----
 The app is deployed on heroku and you are able to clone it to a repository for local use. You can also download it as a PWA.
 
-[Heroku](https://git.heroku.com/stormy-shore-81291.git)
+[Heroku](https://stormy-shore-81291.herokuapp.com/)
 
 ## License
 -------
